@@ -11,3 +11,9 @@ push to external
   git push origin main
 
 local -> local -> push externally
+
+
+order:
+  git add --all
+  git commit -m 'comment'
+  git push origin main
