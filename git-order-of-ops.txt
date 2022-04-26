@@ -1,0 +1,13 @@
+setup local
+  git init
+setup external
+  make a repo online
+connecting "git remote add"
+  git remote add origin
+
+add shopping cat locally
+  git add --all
+push to external
+  git push origin main
+
+local -> local -> push externally
